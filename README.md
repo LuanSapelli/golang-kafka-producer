@@ -1,4 +1,4 @@
-# golang-kafka-producer
+# golang-kafka-producer 🧙🏽‍♂️
 
 - This producer reads `kafka-message.json` file and send the file content to Kafka.
 
