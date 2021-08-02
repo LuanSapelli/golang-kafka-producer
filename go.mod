@@ -1,4 +1,4 @@
-module github.com/jzes/kafkaGoClient/producer
+module github.com/luansapelli/kafka-producer
 
 go 1.16
 
